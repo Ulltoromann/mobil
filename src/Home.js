@@ -61,7 +61,7 @@ export default function Example() {
           className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
           src="https://i.pinimg.com/564x/d4/18/f0/d418f09017af9a8f13bc4939574624fb.jpg"/>
           alt=""
-        />
+        /> 
       </div>
     </div>
     <section class="overflow-hidden text-gray-700 ">
